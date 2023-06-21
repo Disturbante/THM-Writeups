@@ -1,7 +1,7 @@
 i start with an nmap (a simple host discovery and port scanning tool)
 	
 	nmap 10.10.205.70
-outpup:
+output:
 	
 	PORT   STATE SERVICE
 	22/tcp open  ssh
