@@ -1,10 +1,10 @@
 # THM-Writeups
 My Try Hack Me writeups
 
-  Internal
+  [Internal](./internal.md)
 
-  Overpass
+  [Overpass](./overpass.md)
 
-  Server From Hell
+  [Server From Hell](./server_from_hell.md)
 
-  Wonderland
+  [Wonderland](./wonderland.md)
