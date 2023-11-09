@@ -9,4 +9,4 @@ My Try Hack Me writeups
 
   [Wonderland](./wonderland.md)
 
-  [Weasle](./weasle/weasle.md)
+  [Weasel](./weasle/weasle.md)
