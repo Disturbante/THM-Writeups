@@ -8,3 +8,5 @@ My Try Hack Me writeups
   [Server From Hell](./server_from_hell.md)
 
   [Wonderland](./wonderland.md)
+
+  [Weasle](./weasle/weasle.md)
