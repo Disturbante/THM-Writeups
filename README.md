@@ -10,3 +10,5 @@ My Try Hack Me writeups
   [Wonderland](./wonderland.md)
 
   [Weasel](./weasle/weasel.md)
+
+  [Ra](./ra/ra.md)
