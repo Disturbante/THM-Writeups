@@ -14,3 +14,5 @@ My Try Hack Me writeups
   [Ra](./ra/ra.md)
 
   [Dreaming](./Dreaming/Dreaming.md)
+
+  [Plotted-lms](./plotted-lms/plotted-lms.md)
