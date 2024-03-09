@@ -20,3 +20,5 @@ My Try Hack Me writeups
   [For business reasons](./for_business/README.md)
 
   [Umbrella](./umbrella/README.md)
+
+  [Super Secret Tip](./tip/super_secret_tip.md)
