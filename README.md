@@ -22,3 +22,5 @@ My Try Hack Me writeups
   [Umbrella](./umbrella/README.md)
 
   [Super Secret Tip](./tip/super_secret_tip.md)
+
+  [Hack Smarter Security](./hack_smart/README.md)
