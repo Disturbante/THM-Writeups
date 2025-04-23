@@ -24,3 +24,7 @@ My Try Hack Me writeups
   [Super Secret Tip](./tip/super_secret_tip.md)
 
   [Hack Smarter Security](./hack_smart/README.md)
+
+  [Vulnnet Roasted](./vulnnet-roasted.md)
+
+  [RazorBlack](./RazorBlack)
