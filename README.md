@@ -28,3 +28,5 @@ My Try Hack Me writeups
   [Vulnnet Roasted](./vulnnet-roasted.md)
 
   [RazorBlack](./RazorBlack.md)
+
+  [Joker](./joker.md)
